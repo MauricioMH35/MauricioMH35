@@ -10,7 +10,7 @@
 <!-- - 😄 Pronouns:/Pronomes: --> 
 <!-- - ⚡ Fun fact:/Fato engraçado: -->
 
-Estou trabalhando em um projeto para avaliação de uma oportunidade de estágio na Éboli com o [projeto](https://github.com/MauricioMH35/AgendaEboli)
+[Eboli](https://ebolitecnologia.com.br/wp-content/uploads/2022/02/Eboli-Tecnologia-Branco-250x105px.png) Estou trabalhando em um projeto para avaliação de uma oportunidade de estágio na Éboli com o [projeto](https://github.com/MauricioMH35/AgendaEboli)
 
 <div>
   <a href="https://github.com/MauricioMH35">
