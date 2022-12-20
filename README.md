@@ -10,6 +10,8 @@
 <!-- - 😄 Pronouns:/Pronomes: --> 
 <!-- - ⚡ Fun fact:/Fato engraçado: -->
 
+Estou trabalhando em um projeto para avaliação de uma oportunidade de estágio na Éboli com o [projeto](https://github.com/MauricioMH35/AgendaEboli)
+
 <div>
   <a href="https://github.com/MauricioMH35">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MauricioMH35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
