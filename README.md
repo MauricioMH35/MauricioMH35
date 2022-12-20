@@ -10,7 +10,7 @@
 <!-- - 😄 Pronouns:/Pronomes: --> 
 <!-- - ⚡ Fun fact:/Fato engraçado: -->
 
-<img src="https://ebolitecnologia.com.br/wp-content/uploads/2022/02/Eboli-Tecnologia-Branco-250x105px.png" alt="Eboli Logo" width="64"/> Estou trabalhando em um projeto para avaliação de uma oportunidade de estágio na Éboli com o [projeto](https://github.com/MauricioMH35/AgendaEboli)
+<a href="https://ebolitecnologia.com.br/" target="_blank"><img src="https://ebolitecnologia.com.br/wp-content/uploads/2022/02/Eboli-Tecnologia-Branco-250x105px.png" alt="Eboli Logo" width="64"/></a> 🧑‍💻 Estou trabalhando em um projeto para avaliação de uma oportunidade de estágio na Éboli com o [projeto](https://github.com/MauricioMH35/AgendaEboli)
 
 <div>
   <a href="https://github.com/MauricioMH35">
